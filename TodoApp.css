@@ -1,0 +1,12 @@
+i.bi.bi-check-circle {color: skyblue;font-size: 20px;}
+
+i.bi.bi-pencil-square{color: blue;font-size: 20px;}
+
+i.bi.bi-x-circle{color: red;font-size: 20px;}
+
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
